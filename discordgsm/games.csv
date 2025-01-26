@@ -2,6 +2,7 @@ Id,Name,Protocol,Options
 
 7d2d,7 Days to Die (2013),source,port=26900;port_query_offset=1
 
+abioticf,Abiotic Factor (2023),source,port=27015
 ageofchivalry,Age of Chivalry (2007),source,port=27015
 alienarena,Alien Arena (2004),quake2,port_query=27910
 alienswarm,Alien Swarm (2010),source,port=27015
@@ -72,6 +73,7 @@ cscz,Counter-Strike: Condition Zero (2004),source,port=27015
 csgo,Counter-Strike: Global Offensive (2012),source,port=27015
 css,Counter-Strike: Source (2004),source,port=27015
 
+dab,Double Action: Boogaloo (2014),port=27015
 daikatana,Daikatana (2000),quake2,port=27982;port_query_offset=10
 darkesthour,Darkest Hour: Europe '44-'45 (2008),unreal2,port=7757;port_query_offset=1
 dayofdragons,Day of Dragons (2019),source,port_query=27016
