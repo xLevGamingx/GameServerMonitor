@@ -20,12 +20,12 @@ class Satisfactory(Protocol):
         ping = int((time.time() - start) * 1000)
 
         result: GamedigResult = {
-            "name": "",
+            "name": status.str,
             "map": "",
             "password": False,
-            "numplayers": 0,
+            "numplayers": status.num_players,
             "numbots": 0,
-            "maxplayers": 0,
+            "maxplayers": status.max_players,
             "players": None,
             "bots": None,
             "connect": f"{host}:{port}",
